@@ -1,14 +1,3 @@
-"""
-chatbot.py
-----------
-Core FAQ matching engine.
-
-Loads the FAQ dataset, converts questions into TF-IDF vectors,
-and matches a user's question to the closest FAQ using cosine
-similarity. If the best match is below the confidence threshold,
-a fallback "I don't know" style response is returned instead.
-"""
-
 import os
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -26,10 +15,6 @@ FALLBACK_MESSAGE = (
 
 
 class FAQChatbot:
-    """
-    A local, API-free FAQ chatbot based on TF-IDF + cosine similarity.
-    """
-
     def __init__(self, csv_path: str = "faq_data.csv", threshold: float = CONFIDENCE_THRESHOLD):
         self.csv_path = csv_path
         self.threshold = threshold
@@ -38,7 +23,6 @@ class FAQChatbot:
         self.faq_vectors = None
         self._load_data()
         self._build_vectors()
-
     def _load_data(self):
         if not os.path.exists(self.csv_path):
             raise FileNotFoundError(
@@ -75,12 +59,6 @@ class FAQChatbot:
         self.faq_vectors = self.vectorizer.fit_transform(self.df["clean_question"])
 
     def get_response(self, user_question: str) -> dict:
-        """
-        Match a user's question against the FAQ dataset.
-
-        Returns a dict with keys:
-            answer, matched_question, category, confidence (0-100), is_match
-        """
         if not user_question or not user_question.strip():
             return {
                 "answer": "Please type a question so I can help you.",

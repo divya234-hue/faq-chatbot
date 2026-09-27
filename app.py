@@ -1,10 +1,3 @@
-"""
-app.py
-------
-Streamlit UI for the AI-Powered FAQ Chatbot.
-Run with: streamlit run app.py
-"""
-
 import streamlit as st
 from chatbot import FAQChatbot
 
