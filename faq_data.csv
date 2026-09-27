@@ -1,0 +1,101 @@
+id,question,answer,category
+1,How can I register for an internship?,You can register by creating an account and completing the internship application form on our platform.,Registration
+2,What documents are required for registration?,You need a valid ID proof college ID or Aadhar and your latest educational marksheet to complete registration.,Registration
+3,Is there any registration fee for the internship?,No there is no registration fee for applying to the internship program.,Registration
+4,Can I register using my college email ID?,Yes you can register using either your personal email ID or your college email ID.,Registration
+5,How long does the registration process take?,The registration process usually takes less than 10 minutes if you have all documents ready.,Registration
+6,Can I edit my registration details after submitting?,Yes you can edit your registration details from the account settings page before the internship starts.,Registration
+7,What is the process to sign up on the platform?,You can sign up by clicking the register button and filling in your basic details and education info.,Registration
+8,Do I need a resume to register?,A resume is optional during registration but recommended for internship tracks that require shortlisting.,Registration
+9,Can school students register for the internship?,No currently only college and university students are eligible to register for our internships.,Registration
+10,Is there an age limit for registration?,Applicants must be at least 18 years old to register for any internship program.,Registration
+11,What happens after I complete registration?,After registration you will receive a confirmation email and can start browsing available internship tracks.,Registration
+12,Can I register from a mobile phone?,Yes the registration form is mobile friendly and works on any smartphone browser.,Registration
+13,How do I verify my registered email address?,Click the verification link sent to your inbox right after registration to activate your account.,Registration
+14,What is the duration of the internship program?,The internship program typically runs for 4 to 12 weeks depending on the track you choose.,Internship
+15,How do I apply for an internship?,You can apply for an internship by browsing available tracks and clicking the apply button on your dashboard.,Internship
+16,Can I do multiple internships at the same time?,Currently our platform allows you to enroll in only one internship track at a time.,Internship
+17,Is the internship online or offline?,All our internships are conducted completely online through the learning platform.,Internship
+18,What internship tracks are currently available?,We currently offer tracks in web development data science AI and machine learning and digital marketing.,Internship
+19,Will I get a stipend during the internship?,Stipends depend on the specific internship track and are mentioned on the internship details page.,Internship
+20,Is prior experience required to join the internship?,No prior experience is required for most beginner level internship tracks.,Internship
+21,How many hours per week does the internship require?,Most internship tracks require around 8 to 10 hours of work per week.,Internship
+22,Can I switch my internship track after starting?,Track switching is allowed only within the first week and requires coordinator approval.,Internship
+23,Is the internship recognized by companies?,Yes our internship certificates are recognized and valued by many hiring partner companies.,Internship
+24,What is the eligibility criteria for the internship?,Any currently enrolled college student with a stable internet connection is eligible to join.,Internship
+25,Can working professionals join the internship?,Yes working professionals can also join as long as they can dedicate the required weekly hours.,Internship
+26,Does the internship offer a letter of recommendation?,Top performing interns may receive a letter of recommendation from their mentor at the end.,Internship
+27,How do I know which internship track suits me?,You can take the short skill assessment quiz on the homepage to get track recommendations.,Internship
+28,How do I submit my project?,You can submit your completed project through the project submission section on your dashboard.,Submission
+29,What is the last date to submit my project?,The submission deadline is displayed on your dashboard under the specific internship track details.,Submission
+30,Can I resubmit my project after the deadline?,Late submissions may be accepted with a penalty only if enabled by the internship coordinator.,Submission
+31,What file formats are accepted for project submission?,We accept ZIP files GitHub repository links and PDF reports for project submission.,Submission
+32,How will I know if my project submission was successful?,You will receive a confirmation message and email once your project submission is successfully recorded.,Submission
+33,Can I submit my project in a team?,Team submissions are allowed only for tracks that explicitly mention group projects.,Submission
+34,What is the maximum file size for submission?,The maximum allowed upload size for a single project submission is 50 megabytes.,Submission
+35,Can I submit a project link instead of uploading a file?,Yes you can paste a GitHub or Google Drive link instead of uploading the file directly.,Submission
+36,What happens if I miss the submission deadline completely?,Missing the deadline without an extension may result in disqualification from receiving the certificate.,Submission
+37,Can I request an extension for project submission?,Extensions can be requested by contacting your mentor before the original deadline passes.,Submission
+38,How do I check my submission status?,You can check your submission status anytime under the My Submissions tab on your dashboard.,Submission
+39,What kind of projects will I work on?,You will work on real world projects such as building applications dashboards or machine learning models depending on your track.,Projects
+40,Are project topics assigned or can I choose my own?,You can either choose from a list of suggested project topics or propose your own idea for approval.,Projects
+41,How many projects do I need to complete during the internship?,Most tracks require you to complete one major capstone project by the end of the internship.,Projects
+42,Can I use the project for my resume or portfolio?,Yes you are encouraged to showcase your completed projects in your resume and personal portfolio.,Projects
+43,Will I get feedback on my project?,Yes mentors review submitted projects and provide detailed feedback within a week.,Projects
+44,Can I collaborate with other interns on a project?,Collaboration is allowed for tracks that support group based project work.,Projects
+45,Is there a list of sample project ideas?,Yes a curated list of sample project ideas is available under the resources section for each track.,Projects
+46,Can I change my project topic midway?,You can change your project topic within the first two weeks with mentor approval.,Projects
+47,Do I need to present my project to a panel?,Some advanced tracks require a short virtual presentation of your final project to a review panel.,Projects
+48,When will I receive my certificate?,Your certificate will be issued after successful completion of all internship requirements.,Certificate
+49,How can I download my certificate?,You can download your certificate as a PDF from the certificates section of your dashboard.,Certificate
+50,Is the certificate verified and authentic?,Yes every certificate comes with a unique verification ID that can be checked on our website.,Certificate
+51,Will I get a certificate if I miss the project deadline?,Certificates are issued only after project submission requirements are fully met.,Certificate
+52,Can I get a certificate without completing the internship?,No a certificate is issued only upon successful completion of the entire internship program.,Certificate
+53,How long is the certificate valid for?,The certificate does not expire and remains valid permanently as proof of completion.,Certificate
+54,Can I get a printed physical copy of my certificate?,Currently we only issue digital PDF certificates and do not offer printed physical copies.,Certificate
+55,What details are mentioned on the certificate?,The certificate includes your name internship track duration and a unique verification code.,Certificate
+56,How do I share my certificate on LinkedIn?,You can use the built in Add to LinkedIn button available next to your downloaded certificate.,Certificate
+57,Can I request a correction on my certificate if my name is wrong?,Yes you can raise a correction request through the support team with proof of your correct name.,Certificate
+58,Will the certificate mention my project score or grade?,No the certificate confirms completion only and does not display individual project scores.,Certificate
+59,How can I update my account details?,You can update your account details from the profile settings page after logging in.,Account
+60,I forgot my account password what should I do?,You can reset your password using the forgot password link on the login page.,Account
+61,How do I delete my account?,You can request account deletion by contacting our support team through the help center.,Account
+62,Can I change my registered email address?,Yes you can change your registered email address from the account settings page.,Account
+63,How do I update my profile picture?,You can update your profile picture by going to the profile section and uploading a new image.,Account
+64,Why is my account showing as inactive?,Your account may show inactive if email verification was not completed after registration.,Account
+65,Can I have two accounts on the platform?,No each user is allowed to maintain only one active account on our platform.,Account
+66,How do I change my phone number on my account?,You can update your registered phone number from the account settings under contact information.,Account
+67,Why can I not log into my account?,Please double check your email and password or use the forgot password option to reset access.,Account
+68,How do I enable two factor authentication for my account?,You can enable two factor authentication from the security tab inside your account settings.,Account
+69,What payment methods are accepted for paid programs?,We accept credit cards debit cards UPI and net banking for all paid programs.,Payment
+70,Will I get a refund if I cancel my enrollment?,Refunds are processed according to our refund policy within 7 business days of cancellation.,Payment
+71,Is there an installment option for course fees?,Yes installment options are available for select paid internship and course programs.,Payment
+72,How do I get an invoice for my payment?,An invoice is automatically generated and sent to your registered email after every payment.,Payment
+73,What should I do if my payment fails?,If your payment fails please retry after some time or contact support with your transaction ID.,Payment
+74,Are there any hidden charges apart from the listed fee?,No there are no hidden charges beyond the fee amount displayed at checkout.,Payment
+75,Can I pay the internship fee in a different currency?,Payments are currently accepted only in Indian Rupees through the supported payment gateways.,Payment
+76,How long does a refund take to reflect in my account?,Refunds usually take 5 to 7 business days to reflect back in your original payment method.,Payment
+77,Do you offer any discounts or scholarships on fees?,Yes need based scholarships and seasonal discount coupons are occasionally available on select programs.,Payment
+78,The website is not loading properly what should I do?,Please clear your browser cache and cookies or try accessing the website from a different browser.,Technical Support
+79,I am unable to upload my project file what should I do?,Please ensure your file size is within the allowed limit and try uploading again using a stable internet connection.,Technical Support
+80,The video lectures are not playing how do I fix this?,Try switching to a different browser or check your internet connection as video streaming needs a stable connection.,Technical Support
+81,How do I report a bug on the platform?,You can report a bug by using the feedback form available in the help section of the platform.,Technical Support
+82,I am not receiving verification emails what should I do?,Please check your spam folder or add our email address to your contacts list to receive verification emails.,Technical Support
+83,Who do I contact for urgent technical issues?,You can contact our technical support team through the live chat option available on the platform.,Technical Support
+84,The mobile app keeps crashing what should I do?,Please update the app to its latest version or reinstall it if the crashing issue continues.,Technical Support
+85,Why is my dashboard showing outdated information?,Try refreshing the page or logging out and back in as the dashboard may need to resync your data.,Technical Support
+86,I cannot access my course after payment what should I do?,Please wait a few minutes for the system to sync or contact support with your payment receipt.,Technical Support
+87,How do I clear cache on the platform to fix loading issues?,Go to your browser settings and clear the browsing data and cache for the last 24 hours.,Technical Support
+88,What is the process to sign up for a workshop?,Workshops can be joined by registering separately through the events section of your dashboard.,Registration
+89,How do I know if my registration was successful?,You will see a green success message and receive a confirmation email once registration is complete.,Registration
+90,Can I get an internship extension if I need more time?,Extensions are granted on a case by case basis by contacting your assigned mentor.,Internship
+91,Does the internship include live mentorship sessions?,Yes weekly live mentorship sessions are scheduled for all active internship tracks.,Internship
+92,How do I upload multiple files for one submission?,You can compress multiple files into a single ZIP folder before uploading for submission.,Submission
+93,Can I preview my project before final submission?,Yes a preview option is available so you can review your submission before confirming it.,Submission
+94,Do you provide project templates to get started?,Yes starter templates for common project types are available in the resources library.,Projects
+95,Is a certificate issued for workshops as well?,Yes a separate participation certificate is issued for each completed workshop.,Certificate
+96,How do I recover my account if I lost access to my email?,Please contact support with alternate proof of identity to recover access to your account.,Account
+97,Can I switch my payment plan after enrolling?,Switching payment plans is possible within the first week by contacting the billing team.,Payment
+98,Why did my card get declined during payment?,Card declines usually happen due to insufficient funds or bank security restrictions on online payments.,Payment
+99,The chatbot or help widget is not responding what do I do?,Please refresh the page and try again or reach out through the alternate email support option.,Technical Support
+100,How do I check my internet speed if the platform is slow?,You can use any free online speed test tool to confirm if slow internet is causing the issue.,Technical Support
